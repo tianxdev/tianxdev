@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Marcelino</h1>
 <h3 align="center">A passionate grade 10 student web developer from Philippines</h3>
-
-[![MasterHead](https://iamchristianm.rf.gd)]
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on **InfiniTechs LTD**
 - 🌱 I’m currently learning **ReactJS and TypeScript**
