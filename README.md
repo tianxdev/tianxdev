@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Marcelino</h1>
-<h3 align="center">A passionate grade 10 student web developer from Philippines</h3>
+<h3 align="center">A passionate grade 10 student software developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tianxdev&label=Profile%20views&color=0e75b6&style=flat" alt="tianxdev" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xvopl_" target="blank"><img src="https://img.shields.io/twitter/follow/xvopl_?logo=twitter&style=for-the-badge" alt="xvopl_" /></a> </p>
 
-- 🔭 I’m currently working on **InfiniTechs LTD**
+- 🔭 I’m currently working on **Sync Software Services LTD**
 
 - 🌱 I’m currently learning **ReactJS and TypeScript**
 
