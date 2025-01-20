@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianxdev" alt="tianxdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xvopl_" target="blank"><img src="https://img.shields.io/twitter/follow/xvopl_?logo=twitter&style=for-the-badge" alt="xvopl_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tianxdev" target="blank"><img src="https://img.shields.io/twitter/follow/xvopl_?logo=twitter&style=for-the-badge" alt="xvopl_" /></a> </p>
 
 - 🔭 I’m currently working on **Sync Software Services LTD**
 
